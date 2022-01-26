@@ -59,7 +59,7 @@ You could change the hyper-parameters of LHLS in the `./parameter/bert_mr.yaml` 
 
 ## Citation
 If you find this code and data useful, please consider citing the original work by authors:
-   ```shell
+   ```
 @article{yu2022learning,
   title={Learning-based Hybrid Local Search for the Hard-label Textual Attack},
   author={Yu, Zhen and Wang, Xiaosen and Che, Wanxiang and He, Kun},
@@ -67,3 +67,4 @@ If you find this code and data useful, please consider citing the original work 
   year={2022}
 }
    ```
+
