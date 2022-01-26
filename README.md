@@ -2,7 +2,7 @@
 
 This repository contains code to reproduce results from the paper:
 
-**Learning-based Hybrid Local Search Algorithm for Hard-label Textual Attack**
+[**Learning-based Hybrid Local Search Algorithm for Hard-label Textual Attack**](https://arxiv.org/abs/2201.08193)
 
 
 ## Requirements
@@ -60,5 +60,10 @@ You could change the hyper-parameters of LHLS in the `./parameter/bert_mr.yaml` 
 ## Citation
 If you find this code and data useful, please consider citing the original work by authors:
    ```shell
-sh scripts/bert_mr.sh
+@article{yu2022learning,
+  title={Learning-based Hybrid Local Search for the Hard-label Textual Attack},
+  author={Yu, Zhen and Wang, Xiaosen and Che, Wanxiang and He, Kun},
+  journal={arXiv preprint arXiv:2201.08193},
+  year={2022}
+}
    ```
